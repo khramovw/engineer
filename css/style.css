@@ -347,7 +347,8 @@ header {
     -webkit-box-ordinal-group: 3;
     -webkit-order: 2;
         -ms-flex-order: 2;
-            order: 2; }
+            order: 2;
+    background: url(../img/bg-3.png) no-repeat top right/cover; }
   .second.second-duble aside {
     -webkit-box-ordinal-group: 2;
     -webkit-order: 1;
