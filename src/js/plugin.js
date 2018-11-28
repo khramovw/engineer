@@ -41,8 +41,8 @@ class ScrollPage {
 
             this.maxpage = this.pages.length;
 
+            // scroll to curent position
             this.pages.filter( (el, i) => {
-                console.log('Oi', document.getElementsByTagName('section').item(i));
 
                 if ( el.dataset.set == this.newpage ) {
 

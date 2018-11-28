@@ -172,6 +172,7 @@ header {
   &.second-duble {
     .main {
       order: 2;
+      background: url(../img/bg-3.png) no-repeat top right / cover;
     }
     aside {
       order: 1;
